@@ -1,4 +1,4 @@
-# Humminbird-to-convert-models-into-pytorch-framework
+# Hummingbird-to-convert-models-into-pytorch-framework
  With an aim of enabling the traditional ML libraries to take advantage of hardware acceleration and optimizations implemented for the neural networks without restructuring the model, Microsoft launched a library named Hummingbird.</br>
 
 
